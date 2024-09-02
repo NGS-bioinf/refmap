@@ -22,7 +22,7 @@ singularity shell /path/to/refmap_sr.sif
      
 3. Run the refmap_sr script:
 ```
-bash refmap_sr.sh reference /path/to/data.fastq.gz
+bash refmap_sr1.sh reference /path/to/data.fastq.gz
 ```
 4. The procedure is the same for refmap_lr.sh
 
