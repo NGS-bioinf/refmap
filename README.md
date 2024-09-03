@@ -35,7 +35,7 @@ Read orientation is delimited by "_".):
   
 2. Create a directory where desired.
 3. Copy the refmap_sr.sh script and "reference" directory to created directory.
-4. Enter hicov.sif container.
+4. Enter refmap_sr.sif container.
 5. Optional: If required, open the hicov.sh with your favourite text editor and adjust pipeline parameters (thread count, quality settings, etc...).
-6. Run the hicov.sh script. The script takes reference name as positional argument 1 and input data (fastq.gz) directory as positional argument 2.
+6. Run the refmap_sr.sh script. The script takes reference name as positional argument 1 and input data (fastq.gz) directory as positional argument 2.
 7. Additional information is provided in header section in refmap_sr.sh script.
