@@ -28,7 +28,7 @@ bash refmap_sr1.sh reference /path/to/data.fastq.gz
 
 Best use example:
 1. To avoid issues with data naming for (_sr), follow the convention in example (sample name should include only "-".
-Read orientation is delimited by "_".):
+Read orientation is delimited by _.):
    - sample-1_R1.fastq.gz
    - sample-1_R2.fastq.gz
    - ...
