@@ -11,9 +11,9 @@ Prerequisites:
 Usage:
 1. Build the Singularity container:
 ```
-sudo singularity build refmap_sr.sif 20240902_refmap_sr.def
+sudo singularity build refmap_sr.sif 20240710_refmap_sr.def
 #if no sudo privileges:
-singularity build --fakeroot refmap_sr.sif 20240902_refmap_sr.def
+singularity build --fakeroot refmap_sr.sif 20240710_refmap_sr.def
 ```
 2. Enter refmap_sr.sif:
 ```
